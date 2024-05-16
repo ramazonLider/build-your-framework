@@ -1,0 +1,2 @@
+[run]
+omit = env,conftest.py,main.py,test_app.py
